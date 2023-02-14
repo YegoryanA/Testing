@@ -1,0 +1,8 @@
+---
+
+- name: Haykaz 
+  hosts: all
+  become: yes
+
+- Vazgechik: hajox
+
